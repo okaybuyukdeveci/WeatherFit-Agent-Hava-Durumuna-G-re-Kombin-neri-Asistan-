@@ -61,3 +61,4 @@ Brief Tip: [One short styling tip based on the weather/occasion]
     response.raise_for_status()
 
     return response.json()["response"].strip()
+
